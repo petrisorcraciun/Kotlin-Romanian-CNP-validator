@@ -1,23 +1,11 @@
 # Kotlin-Romanian-CNP-validator
+<p align="center">
 
-Romanian Personal Identification Number (Cod Numeric Personal, or CNP) validator
-
-The CNP has the following format:
-
-G YY MM DD CC NNN C
-| |  |  |  |  |   |
-| |  |  |  |  |   +- Checksum
-| |  |  |  |  +----- Serial Number
-| |  |  |  +-------- County Code
-| |  |  +----------- Day (of birth)
-| |  +-------------- Month (of birth)
-| +----------------- Year (of birth)
-+------------------- Gender
+Romanian CNP (Personal Identification Number ) validator
 
 Image: 
 
-<br/>
+<br/><br/>
+<img src="http://i.epvpimg.com/YBZXaab.jpg" height="300px">
 
-<img src="http://i.epvpimg.com/YBZXaab.jpg" height="200px">
-
-
+</p>
